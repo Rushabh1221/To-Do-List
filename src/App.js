@@ -33,11 +33,11 @@ export default class App extends Component {
   render() {
     return (
       <div className="container-fluid my-5">
-
+       <h1 className="text-primary text-center m-3">TO-DO List <i class='fas fa-tasks'></i></h1> 
         <div className="row">
           <div className="col-sm-6 mx-auto text-white shadow-lg p-3">
 
-            <h1 className="text-center">What's Your Today's Plan</h1>
+            <h1 className="text-center mb-3">What's Your Today's Plan</h1>
 
             <div className="row">
 

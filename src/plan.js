@@ -7,4 +7,4 @@ const Plan = (props) => {
         </>
 }
 
-export default Plan; 
+export default Plan;  
